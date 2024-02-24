@@ -3,7 +3,7 @@ lastname = input("Enter your last:")
 
 username = firstname + lastname
 
-print(username)
+print("Your username is: "+username)
 
 email = username + "@gmail.com"
-print(email)
+print("Email is: "+email)
